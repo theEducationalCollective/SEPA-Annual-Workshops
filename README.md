@@ -5,5 +5,7 @@ All of the original workshops are collected and stored as originally presented, 
 
 This website was re-arranged in a big way in 2019, so older links pointing to it are now broken, but we will attempt to keep things organized consistently from here on out.
 
+Zip files of the most recent versions of the individual workshops presented at SEPA are available at [osf.io](https://osf.io/hnq32/). These may be cited as: _Turner, M. D. (2019, March 27). R Tutorials, Self-Study Materials, and Workshops. Retrieved from osf.io/hnq32._
+
 2019.03.26<br/>
 Matt Turner
