@@ -1,5 +1,5 @@
 # SEPA-Annual-Workshops
-Annual Statistics and Computing Workshops for SEPA (Southeastern Psychological Association) Meetings. These workshops have been presented by a variety of people (see individual workshop files for credits). The main contributor is Matthew Turner, who also maintains the collection as a whole and who should be contacted for more information, to file bug reports, etc. (mturner46 AT gsu DOT edu).
+Annual Statistics and Computing Workshops for SEPA (Southeastern Psychological Association) Meetings from 2017 to 2019. These workshops have been presented by a variety of people (see individual workshop files for credits). The main contributor is Matthew Turner, who also maintains the collection as a whole and who should be contacted for more information, to file bug reports, etc. (mturner46 AT gsu DOT edu).
 
 All of the original workshops are collected and stored as originally presented, but they may be modified to fix any errors that we become aware of as time passes. These workshops are also intended for self-study, so if you use them and discover problems, please contact me at the email above.
 
